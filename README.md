@@ -1,2 +1,2 @@
-# grekul
-my first profect
+# my_project
+for stydents
